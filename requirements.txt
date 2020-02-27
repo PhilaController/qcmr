@@ -1,0 +1,4 @@
+camelot-py
+pdftotext
+unidecode
+pandas
